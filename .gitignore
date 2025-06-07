@@ -1,0 +1,17 @@
+# Ignorar entorno virtual
+env/
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos de sistema
+.DS_Store
+*.log
+
+# Ignorar notebooks de Jupyter temporales
+.ipynb_checkpoints/
+
+# Ignorar configuración de VSCode
+.vscode/
